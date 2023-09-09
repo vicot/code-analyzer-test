@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+
+
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Analyzer Include="C:\Users\Kamil\RiderProjects\TmpSetTextSuggester\TmpSetTextSuggester\TmpSetTextSuggester\bin\Release\netstandard2.0\TmpSetTextSuggester.dll"/>
+    </ItemGroup>
+
+</Project>

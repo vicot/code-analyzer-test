@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TmpSetTextSuggester", "TmpSetTextSuggester\TmpSetTextSuggester\TmpSetTextSuggester.csproj", "{0ABD28C8-85B9-4183-BEDB-2935C23E5831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TmpSetTextSuggester.Sample", "TmpSetTextSuggester\TmpSetTextSuggester.Sample\TmpSetTextSuggester.Sample.csproj", "{FDF499F1-0EB4-4A57-8F8E-912A2E341FC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TmpSetTextSuggester.Tests", "TmpSetTextSuggester\TmpSetTextSuggester.Tests\TmpSetTextSuggester.Tests.csproj", "{19533E1B-96AD-440E-89E2-76AE22FEB276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ABD28C8-85B9-4183-BEDB-2935C23E5831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABD28C8-85B9-4183-BEDB-2935C23E5831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABD28C8-85B9-4183-BEDB-2935C23E5831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABD28C8-85B9-4183-BEDB-2935C23E5831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF499F1-0EB4-4A57-8F8E-912A2E341FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF499F1-0EB4-4A57-8F8E-912A2E341FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF499F1-0EB4-4A57-8F8E-912A2E341FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF499F1-0EB4-4A57-8F8E-912A2E341FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19533E1B-96AD-440E-89E2-76AE22FEB276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19533E1B-96AD-440E-89E2-76AE22FEB276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19533E1B-96AD-440E-89E2-76AE22FEB276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19533E1B-96AD-440E-89E2-76AE22FEB276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
